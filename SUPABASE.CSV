@@ -1,3 +1,3 @@
-Name,Rating,League,Market Value,Minutes Played,PR Index
-John Doe,85.5,PL,50,1800,92.3
-Jane Smith,78.2,LL,250,1600,88.7
+Name,Rating,League,Market Value,Minutes Played,PR Index,Opta Points
+John Doe,85.5,Premier League,50000000,1800,92.3,120.5
+Jane Smith,78.2,La Liga,25000000,1600,88.7,95.8
